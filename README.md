@@ -1,4 +1,4 @@
-## Hi there, I am João Victor! It's nice to see you here! 👋
+## Hi there, it's nice to see you here! 👋
 
 I'm currently a GIS developer focused in the development of ArcGIS based geoprocessing services, maps, web and mobile applications. In most of my spare time I am working on some side projects, learning a couple new dishes, and making some eye candy maps.
 
