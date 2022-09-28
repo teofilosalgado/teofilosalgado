@@ -1,6 +1,6 @@
 ## Hi there, it's nice to see you here! 👋
 
-I'm currently a GIS developer focused in the development of ArcGIS based geoprocessing services, maps, web and mobile applications. In most of my spare time I am working on some side projects, learning a couple new dishes, and making some eye candy maps.
+I'm a developer focused on developing ArcGIS-based geoprocessing services, maps, and web and mobile applications. In most of my spare time, I am working on some side projects, learning a couple of new dishes, and making some eye candy maps.
 
 <a href="https://www.linkedin.com/in/teofilosalgado/"><img src="https://img.shields.io/badge/-@teofilosalgado-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/teofilosalgado/" alt="LinkedIn Badge"></a>
 
